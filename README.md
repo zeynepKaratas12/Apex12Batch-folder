@@ -23,3 +23,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - chanege  in dev branch again
 
 - basladim halatar
+- ne yazarsam cikiyor 
