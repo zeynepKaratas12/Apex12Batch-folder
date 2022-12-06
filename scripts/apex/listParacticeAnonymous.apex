@@ -1,0 +1,1 @@
+system.debug(ListPractice5.addPlanet('Jupiter', 5, 9));

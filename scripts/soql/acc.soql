@@ -1,0 +1,2 @@
+//SELECT Id, name FROM Account
+//Select id, name, mailingcity from contact where where name like 'A%'
