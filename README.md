@@ -24,3 +24,5 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 - basladim halatar
 - ne yazarsam cikiyor 
+- git bush
+- git pull
